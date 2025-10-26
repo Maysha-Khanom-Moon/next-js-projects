@@ -1,6 +1,6 @@
-import React from 'react'
-
 const AboutPage = () => {
+  throw new Error("Not implemented");
+  
   return (
     <div>About</div>
   )
